@@ -92,15 +92,4 @@ The retail business faces challenges in identifying high-value customers, result
 
 ---
 
-## 🛠️ Tech Stack
-
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Seaborn, Matplotlib
-- Jupyter Notebook
-
----
-
-## 📁 Folder Structure
 
